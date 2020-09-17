@@ -242,15 +242,15 @@
     },
     "noaaGEFSpoint": {
       "Package": "noaaGEFSpoint",
-      "Version": "0.0.1",
+      "Version": "0.0.1.01",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "3b914ed6afa8313f40f8b6aa4861f823ed338272",
-      "Hash": "c5c0c222c1151b94596e78ed1d409de5"
+      "RemoteSha": "a43f37db15cf812a461d7e7c6dd9105c3977ecb7",
+      "Hash": "de51c11d4c1763038e8c635c4ddb9257"
     },
     "openssl": {
       "Package": "openssl",
