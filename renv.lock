@@ -249,15 +249,15 @@
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "4c05b1ec4a6fd21b56084b97d99762cf754f5275",
-      "Hash": "3784e137038c31c63f896849f5255f09"
+      "RemoteSha": "d793b02bfae5797f34b169ef1746ae2924dd40be",
+      "Hash": "3af0379c6166e3adfbbd42732597b3df"
     },
     "openssl": {
       "Package": "openssl",
-      "Version": "1.4.2",
+      "Version": "1.4.3",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "b3209c62052922b6c629544d94c8fa8a"
+      "Hash": "a399e4773075fc2375b71f45fca186c4"
     },
     "pillar": {
       "Package": "pillar",
@@ -345,10 +345,10 @@
     },
     "stringi": {
       "Package": "stringi",
-      "Version": "1.4.6",
+      "Version": "1.5.3",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "e99d8d656980d2dd416a962ae55aec90"
+      "Hash": "a063ebea753c92910a4cca7b18bc1f05"
     },
     "stringr": {
       "Package": "stringr",
