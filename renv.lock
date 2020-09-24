@@ -93,13 +93,6 @@
       "Repository": "RSPM",
       "Hash": "ff0becff7bfdfe3f75d29aff8f3172dd"
     },
-    "clipr": {
-      "Package": "clipr",
-      "Version": "0.7.0",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "08cf4045c149a0f0eaf405324c7495bd"
-    },
     "crayon": {
       "Package": "crayon",
       "Version": "1.3.4",
@@ -169,13 +162,6 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "6efd734b14c6471cfe443345f3e35e29"
-    },
-    "hms": {
-      "Package": "hms",
-      "Version": "0.5.3",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "726671f634529d470545f9fd1a9d1869"
     },
     "httr": {
       "Package": "httr",
@@ -249,8 +235,8 @@
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "d793b02bfae5797f34b169ef1746ae2924dd40be",
-      "Hash": "3af0379c6166e3adfbbd42732597b3df"
+      "RemoteSha": "a34211a82b00ad4d5250ed342b943362c86032f1",
+      "Hash": "9a4738917c640fef1284910757be58b8"
     },
     "openssl": {
       "Package": "openssl",
@@ -286,20 +272,6 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "491f2046b21f78b6a10a07173e70f775"
-    },
-    "readr": {
-      "Package": "readr",
-      "Version": "1.3.1",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "af8ab99cd936773a148963905736907b"
-    },
-    "renv": {
-      "Package": "renv",
-      "Version": "0.12.0",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "7340c71f46a0fd16506cfa804e224e44"
     },
     "rlang": {
       "Package": "rlang",
@@ -405,13 +377,6 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "d4d71a75dd3ea9eb5fa28cc21f9585e2"
-    },
-    "yaml": {
-      "Package": "yaml",
-      "Version": "2.2.1",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "2826c5d9efb0a88f657c7a679c7106db"
     }
   }
 }
