@@ -249,8 +249,8 @@
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "b60366ac11e0f0e814de459cfa5a00efbb14221d",
-      "Hash": "f4ae7fcb698e82779b751f17bb98d29b"
+      "RemoteSha": "8a048ed3eb256e252e7edfb70fab85a2c4134ad2",
+      "Hash": "2cf52c4368ce15c91a5d90c7d7c6b6a7"
     },
     "openssl": {
       "Package": "openssl",
@@ -300,6 +300,13 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "7340c71f46a0fd16506cfa804e224e44"
+    },
+    "rgdal": {
+      "Package": "rgdal",
+      "Version": "1.5-16",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "3f840ce3afbcb78ad2a728558dba2078"
     },
     "rlang": {
       "Package": "rlang",
