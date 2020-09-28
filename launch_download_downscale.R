@@ -31,5 +31,6 @@ noaaGEFSpoint::noaa_gefs_download_downscale(site_list,
                                             downscale = config_file$downscale,
                                             run_parallel = config_file$run_parallel,
                                             num_cores = config_file$num_cores,
+                                            method = "grid",
                                             overwrite = config_file$overwrite)
 
