@@ -151,10 +151,10 @@
     },
     "fields": {
       "Package": "fields",
-      "Version": "11.4",
+      "Version": "11.5",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "db57ed452daca391fcf3f64417ff61a1"
+      "Hash": "f92fba9cec3edd98577b80670ba6e667"
     },
     "generics": {
       "Package": "generics",
@@ -249,8 +249,8 @@
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "8a048ed3eb256e252e7edfb70fab85a2c4134ad2",
-      "Hash": "2cf52c4368ce15c91a5d90c7d7c6b6a7"
+      "RemoteSha": "0bc37b3f267c7608c63c04b82fdd363141380af1",
+      "Hash": "d84fe598bb0177748bbdc9dbe91d299d"
     },
     "openssl": {
       "Package": "openssl",
@@ -303,17 +303,17 @@
     },
     "rgdal": {
       "Package": "rgdal",
-      "Version": "1.5-16",
+      "Version": "1.5-17",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "3f840ce3afbcb78ad2a728558dba2078"
+      "Hash": "eeae1826a0a13f41ed93fec069d72725"
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "0.4.7",
+      "Version": "0.4.8",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "c06d2a6887f4b414f8e927afd9ee976a"
+      "Hash": "843a6af51414bce7f8a8e372f11d6cd0"
     },
     "rvest": {
       "Package": "rvest",
@@ -331,10 +331,10 @@
     },
     "sp": {
       "Package": "sp",
-      "Version": "1.4-2",
+      "Version": "1.4-4",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "3290eebc34ba4df5e213878d54c1e623"
+      "Hash": "e0485290545c0e768c2b50390114da1f"
     },
     "spam": {
       "Package": "spam",
