@@ -5,7 +5,7 @@
 
 #source files and set paths on container
 #these directories won't change on container
-print(paste("Running NOAA scripts starting at:", as.character(Sys.time())))
+message(paste("Running NOAA scripts starting at:", as.character(Sys.time())))
 renv::restore()
 
 output_directory <- normalizePath(file.path(Sys.getenv("MINIO_HOME"), "drivers/noaa"))
@@ -20,7 +20,7 @@ site_list <- neon_sites$site_id
 lat_list <- neon_sites$latitude
 lon_list <- neon_sites$longitude
 
-print(paste0("Site file: ", config_file$site_file))
+message(paste0("Site file: ", config_file$site_file))
 
 noaaGEFSpoint::noaa_gefs_download_downscale(site_list,
                                             lat_list,

@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.0.2",
+    "Version": "4.0.3",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -88,10 +88,10 @@
     },
     "cli": {
       "Package": "cli",
-      "Version": "2.0.2",
+      "Version": "2.1.0",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "ff0becff7bfdfe3f75d29aff8f3172dd"
+      "Hash": "0b316487b21d21f99ebf98abe179b1ea"
     },
     "clipr": {
       "Package": "clipr",
@@ -116,10 +116,10 @@
     },
     "digest": {
       "Package": "digest",
-      "Version": "0.6.25",
+      "Version": "0.6.27",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "f697db7d92b7028c4b3436e9603fb636"
+      "Hash": "a0cbe758a531d054b537d16dff4d58a1"
     },
     "dotCall64": {
       "Package": "dotCall64",
@@ -151,10 +151,10 @@
     },
     "fields": {
       "Package": "fields",
-      "Version": "11.5",
+      "Version": "11.6",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "f92fba9cec3edd98577b80670ba6e667"
+      "Hash": "5776b45f328a01ed636407bc0fb78613"
     },
     "generics": {
       "Package": "generics",
@@ -195,7 +195,7 @@
       "Package": "lattice",
       "Version": "0.20-41",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "fbd9285028b0263d76d18c95ae51a53d"
     },
     "lifecycle": {
@@ -249,8 +249,8 @@
       "RemoteRepo": "noaaGEFSpoint",
       "RemoteUsername": "rqthomas",
       "RemoteRef": "HEAD",
-      "RemoteSha": "0bc37b3f267c7608c63c04b82fdd363141380af1",
-      "Hash": "d84fe598bb0177748bbdc9dbe91d299d"
+      "RemoteSha": "de82839132d36956de3524cb89adc5d4465453f0",
+      "Hash": "5adbc7ad6bf6a098563cf36499d45423"
     },
     "openssl": {
       "Package": "openssl",
@@ -303,10 +303,10 @@
     },
     "rgdal": {
       "Package": "rgdal",
-      "Version": "1.5-17",
+      "Version": "1.5-18",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "eeae1826a0a13f41ed93fec069d72725"
+      "Hash": "402fc3169948d26581d585360825c65c"
     },
     "rlang": {
       "Package": "rlang",
@@ -373,10 +373,10 @@
     },
     "tibble": {
       "Package": "tibble",
-      "Version": "3.0.3",
+      "Version": "3.0.4",
       "Source": "Repository",
       "Repository": "RSPM",
-      "Hash": "08bd36bd34b20d4f7971d49e81deaab0"
+      "Hash": "71dffd8544691c520dd8e41ed2d7e070"
     },
     "tidyselect": {
       "Package": "tidyselect",
