@@ -6,7 +6,6 @@
 #source files and set paths on container
 #these directories won't change on container
 message(paste("Running NOAA scripts starting at:", as.character(Sys.time())))
-renv::restore()
 
 output_directory <- normalizePath(file.path(Sys.getenv("MINIO_HOME"), "drivers/noaa"))
 configuration_yaml <- "noaa_download_scale_config.yml"
