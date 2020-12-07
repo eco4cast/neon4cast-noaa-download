@@ -21,15 +21,15 @@ lon_list <- neon_sites$longitude
 
 message(paste0("Site file: ", config_file$site_file))
 
-noaaGEFSpoint::noaa_gefs_download_downscale(site_list,
-                                            lat_list,
-                                            lon_list,
-                                            output_directory,
+noaaGEFSpoint::noaa_gefs_download_downscale(site_list = site_list,
+                                            lat_list = lat_list,
+                                            lon_list= lon_list,
+                                            output_directory = output_directory,
                                             forecast_time = config_file$forecast_time,
                                             forecast_date = config_file$forecast_date,
                                             downscale = config_file$downscale,
                                             run_parallel = config_file$run_parallel,
                                             num_cores = config_file$num_cores,
                                             method = "grid",
-                                            overwrite = config_file$overwrite)
+                                            overwrite = FALSE)
 
